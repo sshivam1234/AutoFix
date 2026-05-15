@@ -47,7 +47,6 @@ AutoFix is a web-based vehicle service booking and management system that enable
 * Node.js
 * Express.js
 * MongoDB
-* Clerk Authentication
 * Git & GitHub
 
 ---
