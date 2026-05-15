@@ -8,7 +8,7 @@ app.use(cors({
     // origin: process.env.CORS_ORIGIN,
     origin: true,
     credentials: true
-}))
+})) 
 
 app.use(
   session({
