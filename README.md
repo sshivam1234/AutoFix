@@ -19,7 +19,7 @@
 
 | S. No. | Name              | Roll Number | Role                                            |
 | -----: | ----------------- | ----------- | ----------------------------------------------- |
-|      1 | Shivam Sharma     | 2211981367  | Team Leader, Frontend Developer, UI/UX Designer |
+|      1 | Shivam Sharma     | 2211981367  | Team Leader, FullStack Developer, UI/UX Designer |
 |      2 | Kartik Chauhan    | 2211981193  | Frontend Developer                              |
 |      3 | Prashant Pathania | 2211981270  | Full Stack Developer                            |
 |      4 | Piyush Sankhyan   | 2211981268  | Backend Developer                               |
